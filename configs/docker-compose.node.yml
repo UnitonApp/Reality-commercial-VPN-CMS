@@ -1,0 +1,14 @@
+services:
+  marzban-node:
+    image: gozargah/marzban-node:latest
+    restart: always
+    network_mode: host
+    environment:
+      SSL_CERT_FILE: "/var/lib/marzban-node/ssl_cert.pem"
+      SSL_KEY_FILE: "/var/lib/marzban-node/ssl_key.pem"
+      SSL_CLIENT_CERT_FILE: "/var/lib/marzban-node/ssl_client_cert.pem"
+      SERVICE_PROTOCOL: "rest"
+      SERVICE_PORT: "62050"
+      XRAY_API_PORT: "62051"
+    volumes:
+      - /var/lib/marzban-node:/var/lib/marzban-node
