@@ -141,7 +141,7 @@ Allow partners to sell VPN under their own brand.
 Integration with existing product ecosystem.
 
 - [ ] **Tegro VPN** — fork 1984 VPN infrastructure under Tegro brand
-  - `tegrovpn.com` or subdomain of `tegro.ru`
+  - `tegrovpn.com` or subdomain of `tegro.money`
   - Target: Tegro Finance / Tegro Money existing users
   - Same servers, different Telegram bot + branding
 - [ ] **TonChat.AI widget** on `1984vpn.com` landing
