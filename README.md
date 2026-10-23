@@ -1,7 +1,7 @@
 # 🔒 1984 VPN — Self-Hosted Commercial VPN Infrastructure
 
 > *"Big Brother is watching. We're watching back."*
-> A complete, production-ready VPN business infrastructure built by [@DeFiTON](https://github.com/DeFiTON)
+> A complete, production-ready VPN business infrastructure.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Marzban](https://img.shields.io/badge/Panel-Marzban-green.svg)](https://github.com/Gozargah/Marzban)
