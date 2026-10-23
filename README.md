@@ -88,7 +88,7 @@ VPN activation codes are distributed through **[Libermall Marketplace](https://l
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/DeFiTON/1984vpn.git
+git clone https://github.com/UnitonApp/Reality-commercial-VPN-CMS.git 1984vpn
 cd 1984vpn
 ```
 
