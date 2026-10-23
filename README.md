@@ -6,30 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Marzban](https://img.shields.io/badge/Panel-Marzban-green.svg)](https://github.com/Gozargah/Marzban)
 [![Protocol](https://img.shields.io/badge/Protocol-VLESS%2BReality-orange.svg)](https://github.com/XTLS/Xray-core)
-[![Author](https://img.shields.io/badge/Author-DeFiTON-purple.svg)](https://gusev.biz)
-
----
-
-## 👤 About the Author
-
-This project is built and maintained by **Sviatoslav Gusev** — entrepreneur, developer, and founder of multiple tech products.
-
-| | |
-|--|--|
-| 🌐 Website | [gusev.biz](https://gusev.biz) |
-| 💬 Telegram | [@defiton](https://t.me/defiton) |
-| 🐙 GitHub | [@DeFiTON](https://github.com/DeFiTON) |
-| 🏢 Company | [Libermall LLC](https://libermall.com) |
-
-### My Projects
-
-| Project | Description |
-|---------|-------------|
-| [TonChat.AI](https://tonchat.ai) | AI chat on TON blockchain |
-| [Tegro.Finance](https://tegro.finance) | DEX on TON |
-| [Tegro.Money](https://tegro.money) | Payment system |
-| [SMOService](https://smoservice.media) | SMM panel |
-| [Libermall](https://libermall.com) | Digital marketplace |
 
 ---
 
@@ -266,4 +242,3 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-*Built with ❤️ by [Sviatoslav Gusev](https://gusev.biz) | [@defiton](https://t.me/defiton)*
