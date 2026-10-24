@@ -220,4 +220,3 @@ Ideas mentioned but not yet scoped:
 ---
 
 *Last updated: March 2026*
-*Infrastructure built by [@DeFiTON](https://github.com/DeFiTON)*
